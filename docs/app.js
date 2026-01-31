@@ -1,5 +1,5 @@
 async function loadData() {
-  const res = await fetch("./data/merged_moscow_sets.json");
+  const res = await fetch("./data/merged_moscow_sets.json?v=810084d");
   if (!res.ok) throw new Error("Cannot load data: " + res.status);
   return await res.json();
 }
