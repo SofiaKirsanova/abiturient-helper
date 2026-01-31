@@ -118,6 +118,17 @@
       border: 1px solid rgba(255,255,255,.14);
       color: rgba(255,255,255,.85);
     }
+    .pill-ict{
+    background: rgba(59,130,246,.18);
+    border-color: rgba(59,130,246,.40);
+    color: rgba(219,234,254,.95);
+    }
+    .pill-phys{
+      background: rgba(168,85,247,.16);
+      border-color: rgba(168,85,247,.38);
+      color: rgba(243,232,255,.95);
+    }
+
     .note{ color:var(--muted); font-size:12px; margin-top:6px; }
     a{ color: rgba(147,197,253,.95); text-decoration:none; }
     a:hover{ text-decoration:underline; }
@@ -136,12 +147,14 @@
         <h1>Направления по ЕГЭ (Москва/МО)</h1>
         <div class="sub">
           Русский и математика подразумеваются для всех направлений.<br/>
-          Плашки показывают третий предмет: <b>ИКТ</b> или <b>Ф</b>.
+          Плашки показывают третий предмет: <b>ИКТ</b> или <b>Ф</b>.<br/>
+          <span id="datasetInfo" class="muted"></span>
         </div>
+        
       </div>
 
       <div class="support">
-        <div class="kicker">Для Миши</div>
+        <div class="kicker">Для Мишутки</div>
         <p class="quote" id="supportText"></p>
         <button class="btn" id="supportBtn">Ещё фраза</button>
       </div>
@@ -158,7 +171,15 @@
             <option value="both">ИКТ ∩ Ф (оба подходят)</option>
           </select>
         </label>
-
+        <label>
+          Сортировка групп:
+          <select id="sortBy">
+            <option value="ug_code">по номеру большой группы</option>
+            <option value="alpha">по алфавиту</option>
+            <option value="count_desc">по количеству направлений</option>
+          </select>
+        </label>
+        
         <label style="flex:1; min-width:320px;">
           Поиск:
           <input id="q" type="text" placeholder="код или название (например 09.03.04 / программная инженерия)" />
