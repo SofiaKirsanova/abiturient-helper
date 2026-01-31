@@ -26,10 +26,10 @@ def main():
     run(["python", "scripts/build_tabiturient_sets.py"])
     run(["python", "scripts/merge_okso_with_tabiturient.py"])
 
-    Path("site/data").mkdir(parents=True, exist_ok=True)
-    shutil.copyfile("data/processed/merged_moscow_sets.json", "site/data/merged_moscow_sets.json")
+    Path("docs/data").mkdir(parents=True, exist_ok=True)
+    shutil.copyfile("data/processed/merged_moscow_sets.json", "docs/data/merged_moscow_sets.json")
+    print("OK: docs/data/merged_moscow_sets.json updated")
 
-    print("OK: site/data/merged_moscow_sets.json updated")
 
 if __name__ == "__main__":
     main()
