@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ЕГЭ → направления (Москва/МО)</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
+    .row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
+    .box { border:1px solid #ddd; border-radius:10px; padding:14px; }
+    input, select { padding:10px; border:1px solid #ccc; border-radius:10px; }
+    input { min-width: 340px; }
+    h1 { margin: 0 0 12px; }
+    h2 { margin: 18px 0 8px; font-size: 18px; }
+    .muted { color:#666; font-size: 13px; }
+    .dir { border:1px solid #eee; border-radius:10px; padding:10px 12px; margin: 8px 0; }
+    .pill { display:inline-block; padding:3px 8px; border:1px solid #bbb; border-radius:999px; margin-right:6px; font-size:12px; }
+    a { color:#0b57d0; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+  </style>
+</head>
+<body>
+  <h1>Направления по ЕГЭ (Москва/МО)</h1>
+
+  <div class="box">
+    <div class="row">
+      <label>
+        Набор ЕГЭ:
+        <select id="setFilter">
+          <option value="any">Любой (ИКТ ∪ Физика)</option>
+          <option value="rus_math_ict">Русский + Математика + ИКТ</option>
+          <option value="rus_math_phys">Русский + Математика + Физика</option>
+        </select>
+      </label>
+
+      <label>
+        Поиск:
+        <input id="q" type="text" placeholder="код или название (например 09.03.04 / программная инженерия)" />
+      </label>
+
+      <span class="muted" id="stats"></span>
+    </div>
+  </div>
+
+  <div id="app" style="margin-top:14px"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

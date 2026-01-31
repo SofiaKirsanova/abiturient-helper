@@ -1,0 +1,1962 @@
+[
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.01",
+    "direction_title": "Математика",
+    "url": "https://tabiturient.ru/city/moscow/1001"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.02",
+    "direction_title": "Прикладная математика и информатика",
+    "url": "https://tabiturient.ru/city/moscow/1002"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.03",
+    "direction_title": "Механика и математическое моделирование",
+    "url": "https://tabiturient.ru/city/moscow/1003"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.04",
+    "direction_title": "Прикладная математика",
+    "url": "https://tabiturient.ru/city/moscow/1004"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.05",
+    "direction_title": "Статистика",
+    "url": "https://tabiturient.ru/city/moscow/1005"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.01",
+    "direction_title": "Математика и компьютерные науки",
+    "url": "https://tabiturient.ru/city/moscow/1006"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.02",
+    "direction_title": "Фундаментальная информатика и информационные технологии",
+    "url": "https://tabiturient.ru/city/moscow/1007"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.03",
+    "direction_title": "Математическое обеспечение и администрирование информационных систем",
+    "url": "https://tabiturient.ru/city/moscow/1008"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "03.00.00",
+    "ug_title": "ФИЗИКА И АСТРОНОМИЯ",
+    "direction_code": "03.03.01",
+    "direction_title": "Прикладные математика и физика",
+    "url": "https://tabiturient.ru/city/moscow/1009"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "05.00.00",
+    "ug_title": "НАУКИ О ЗЕМЛЕ",
+    "direction_code": "05.03.01",
+    "direction_title": "Геология",
+    "url": "https://tabiturient.ru/city/moscow/1014"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "05.00.00",
+    "ug_title": "НАУКИ О ЗЕМЛЕ",
+    "direction_code": "05.03.03",
+    "direction_title": "Картография и геоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1016"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "05.00.00",
+    "ug_title": "НАУКИ О ЗЕМЛЕ",
+    "direction_code": "05.03.06",
+    "direction_title": "Экология и природопользование",
+    "url": "https://tabiturient.ru/city/moscow/1019"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "06.00.00",
+    "ug_title": "БИОЛОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "06.05.01",
+    "direction_title": "Биоинженерия и биоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1187"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "07.00.00",
+    "ug_title": "АРХИТЕКТУРА",
+    "direction_code": "07.03.04",
+    "direction_title": "Градостроительство",
+    "url": "https://tabiturient.ru/city/moscow/1025"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "08.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ СТРОИТЕЛЬСТВА",
+    "direction_code": "08.03.01",
+    "direction_title": "Строительство",
+    "url": "https://tabiturient.ru/city/moscow/1026"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "08.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ СТРОИТЕЛЬСТВА",
+    "direction_code": "08.05.01",
+    "direction_title": "Строительство уникальных зданий и сооружений",
+    "url": "https://tabiturient.ru/city/moscow/1188"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.01",
+    "direction_title": "Информатика и вычислительная техника",
+    "url": "https://tabiturient.ru/city/moscow/1027"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.02",
+    "direction_title": "Информационные системы и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1028"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.03",
+    "direction_title": "Прикладная информатика",
+    "url": "https://tabiturient.ru/city/moscow/1029"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.04",
+    "direction_title": "Программная инженерия",
+    "url": "https://tabiturient.ru/city/moscow/1030"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.05.01",
+    "direction_title": "Применение и эксплуатация автоматизированных систем специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1469"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.03.01",
+    "direction_title": "Информационная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1031"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.01",
+    "direction_title": "Компьютерная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1190"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.02",
+    "direction_title": "Информационная безопасность телекоммуникационных систем",
+    "url": "https://tabiturient.ru/city/moscow/1191"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.03",
+    "direction_title": "Информационная безопасность автоматизированных систем",
+    "url": "https://tabiturient.ru/city/moscow/1192"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.04",
+    "direction_title": "Информационно-аналитические системы безопасности",
+    "url": "https://tabiturient.ru/city/moscow/1193"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.05",
+    "direction_title": "Безопасность информационных технологий в правоохранительной сфере",
+    "url": "https://tabiturient.ru/city/moscow/1194"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.01",
+    "direction_title": "Радиотехника",
+    "url": "https://tabiturient.ru/city/moscow/1032"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.02",
+    "direction_title": "Инфокоммуникационные технологии и системы связи",
+    "url": "https://tabiturient.ru/city/moscow/1033"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.03",
+    "direction_title": "Конструирование и технология электронных средств",
+    "url": "https://tabiturient.ru/city/moscow/1034"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.04",
+    "direction_title": "Электроника и наноэлектроника",
+    "url": "https://tabiturient.ru/city/moscow/1035"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.05.01",
+    "direction_title": "Радиоэлектронные системы и комплексы",
+    "url": "https://tabiturient.ru/city/moscow/1195"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.01",
+    "direction_title": "Приборостроение",
+    "url": "https://tabiturient.ru/city/moscow/1036"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.03",
+    "direction_title": "Фотоника и оптоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1038"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.04",
+    "direction_title": "Биотехнические системы и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1039"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.05",
+    "direction_title": "Лазерная техника и лазерные технологии",
+    "url": "https://tabiturient.ru/city/moscow/1040"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.05.01",
+    "direction_title": "Электронные и оптико-электронные приборы и системы специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1197"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.01",
+    "direction_title": "Теплоэнергетика и теплотехника",
+    "url": "https://tabiturient.ru/city/moscow/1041"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.02",
+    "direction_title": "Электроэнергетика и электротехника",
+    "url": "https://tabiturient.ru/city/moscow/1042"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.03",
+    "direction_title": "Энергетическое машиностроение",
+    "url": "https://tabiturient.ru/city/moscow/1043"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.03.01",
+    "direction_title": "Ядерная энергетика и теплофизика",
+    "url": "https://tabiturient.ru/city/moscow/1044"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.03.02",
+    "direction_title": "Ядерные физика и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1045"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.01",
+    "direction_title": "Машиностроение",
+    "url": "https://tabiturient.ru/city/moscow/1046"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.02",
+    "direction_title": "Технологические машины и оборудование",
+    "url": "https://tabiturient.ru/city/moscow/1047"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.03",
+    "direction_title": "Прикладная механика",
+    "url": "https://tabiturient.ru/city/moscow/1048"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.04",
+    "direction_title": "Автоматизация технологических процессов и производств",
+    "url": "https://tabiturient.ru/city/moscow/1049"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.05",
+    "direction_title": "Конструкторско-технологическое обеспечение машиностроительных производств",
+    "url": "https://tabiturient.ru/city/moscow/1050"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.06",
+    "direction_title": "Мехатроника и робототехника",
+    "url": "https://tabiturient.ru/city/moscow/1051"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.05.01",
+    "direction_title": "Проектирование технологических машин и комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1201"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "16.00.00",
+    "ug_title": "ФИЗИКО-ТЕХНИЧЕСКИЕ НАУКИ И ТЕХНОЛОГИИ",
+    "direction_code": "16.03.03",
+    "direction_title": "Холодильная, криогенная техника и системы жизнеобеспечения",
+    "url": "https://tabiturient.ru/city/moscow/1054"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.03.01",
+    "direction_title": "Техносферная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1062"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.03.02",
+    "direction_title": "Природообустройство и водопользование",
+    "url": "https://tabiturient.ru/city/moscow/1063"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.05.01",
+    "direction_title": "Пожарная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1208"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.01",
+    "direction_title": "Нефтегазовое дело",
+    "url": "https://tabiturient.ru/city/moscow/1064"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.02",
+    "direction_title": "Землеустройство и кадастры",
+    "url": "https://tabiturient.ru/city/moscow/1065"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.03",
+    "direction_title": "Геодезия и дистанционное зондирование",
+    "url": "https://tabiturient.ru/city/moscow/1066"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.01",
+    "direction_title": "Прикладная геодезия",
+    "url": "https://tabiturient.ru/city/moscow/1209"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.02",
+    "direction_title": "Прикладная геология",
+    "url": "https://tabiturient.ru/city/moscow/1210"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.03",
+    "direction_title": "Технология геологической разведки",
+    "url": "https://tabiturient.ru/city/moscow/1211"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.04",
+    "direction_title": "Горное дело",
+    "url": "https://tabiturient.ru/city/moscow/1212"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.05",
+    "direction_title": "Физические процессы горного или нефтегазового производства",
+    "url": "https://tabiturient.ru/city/moscow/1213"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.06",
+    "direction_title": "Нефтегазовые техника и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1214"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "22.00.00",
+    "ug_title": "ТЕХНОЛОГИИ МАТЕРИАЛОВ",
+    "direction_code": "22.03.01",
+    "direction_title": "Материаловедение и технологии материалов",
+    "url": "https://tabiturient.ru/city/moscow/1067"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "22.00.00",
+    "ug_title": "ТЕХНОЛОГИИ МАТЕРИАЛОВ",
+    "direction_code": "22.03.02",
+    "direction_title": "Металлургия",
+    "url": "https://tabiturient.ru/city/moscow/1068"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.01",
+    "direction_title": "Технология транспортных процессов",
+    "url": "https://tabiturient.ru/city/moscow/1069"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.02",
+    "direction_title": "Наземные транспортно-технологические комплексы",
+    "url": "https://tabiturient.ru/city/moscow/1070"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.03",
+    "direction_title": "Эксплуатация транспортно-технологических машин и комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1071"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.01",
+    "direction_title": "Наземные транспортно-технологические средства",
+    "url": "https://tabiturient.ru/city/moscow/1215"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.02",
+    "direction_title": "Транспортные средства специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1216"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.03",
+    "direction_title": "Подвижной состав железных дорог",
+    "url": "https://tabiturient.ru/city/moscow/1217"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.04",
+    "direction_title": "Эксплуатация железных дорог",
+    "url": "https://tabiturient.ru/city/moscow/1218"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.05",
+    "direction_title": "Системы обеспечения движения поездов",
+    "url": "https://tabiturient.ru/city/moscow/1219"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.06",
+    "direction_title": "Строительство железных дорог, мостов и транспортных тоннелей",
+    "url": "https://tabiturient.ru/city/moscow/1220"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.03",
+    "direction_title": "Баллистика и гидроаэродинамика",
+    "url": "https://tabiturient.ru/city/moscow/1074"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.04",
+    "direction_title": "Авиастроение",
+    "url": "https://tabiturient.ru/city/moscow/1075"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.05",
+    "direction_title": "Двигатели летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1076"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.01",
+    "direction_title": "Проектирование, производство и эксплуатация ракет и ракетно-космических комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1221"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.02",
+    "direction_title": "Проектирование авиационных и ракетных двигателей",
+    "url": "https://tabiturient.ru/city/moscow/1222"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.03",
+    "direction_title": "Испытание летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1223"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.05",
+    "direction_title": "Интегрированные системы летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1225"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.06",
+    "direction_title": "Системы управления летательными аппаратами",
+    "url": "https://tabiturient.ru/city/moscow/1226"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.07",
+    "direction_title": "Самолето- и вертолетостроение",
+    "url": "https://tabiturient.ru/city/moscow/1227"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.03.01",
+    "direction_title": "Техническая эксплуатация летательных аппаратов и двигателей",
+    "url": "https://tabiturient.ru/city/moscow/1077"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.03.03",
+    "direction_title": "Аэронавигация",
+    "url": "https://tabiturient.ru/city/moscow/1079"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.05.03",
+    "direction_title": "Техническая эксплуатация транспортного радиооборудования",
+    "url": "https://tabiturient.ru/city/moscow/1230"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.05.05",
+    "direction_title": "Эксплуатация воздушных судов и организация воздушного движения",
+    "url": "https://tabiturient.ru/city/moscow/1232"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.03.01",
+    "direction_title": "Управление водным транспортом и гидрографическое обеспечение судоходства",
+    "url": "https://tabiturient.ru/city/moscow/1081"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.03.03",
+    "direction_title": "Водные пути, порты и гидротехнические сооружения",
+    "url": "https://tabiturient.ru/city/moscow/1477"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.05",
+    "direction_title": "Судовождение",
+    "url": "https://tabiturient.ru/city/moscow/1237"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.06",
+    "direction_title": "Эксплуатация судовых энергетических установок",
+    "url": "https://tabiturient.ru/city/moscow/1238"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.07",
+    "direction_title": "Эксплуатация судового электрооборудования и средств автоматики",
+    "url": "https://tabiturient.ru/city/moscow/1239"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.01",
+    "direction_title": "Стандартизация и метрология",
+    "url": "https://tabiturient.ru/city/moscow/1083"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.02",
+    "direction_title": "Управление качеством",
+    "url": "https://tabiturient.ru/city/moscow/1084"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.03",
+    "direction_title": "Системный анализ и управление",
+    "url": "https://tabiturient.ru/city/moscow/1085"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.04",
+    "direction_title": "Управление в технических системах",
+    "url": "https://tabiturient.ru/city/moscow/1086"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.05",
+    "direction_title": "Инноватика",
+    "url": "https://tabiturient.ru/city/moscow/1087"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.01",
+    "direction_title": "Нанотехнологии и микросистемная техника",
+    "url": "https://tabiturient.ru/city/moscow/1088"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.02",
+    "direction_title": "Наноинженерия",
+    "url": "https://tabiturient.ru/city/moscow/1089"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.03",
+    "direction_title": "Наноматериалы",
+    "url": "https://tabiturient.ru/city/moscow/1090"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.01",
+    "direction_title": "Технология изделий легкой промышленности",
+    "url": "https://tabiturient.ru/city/moscow/1091"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.03",
+    "direction_title": "Технология полиграфического и упаковочного производства",
+    "url": "https://tabiturient.ru/city/moscow/1093"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.04",
+    "direction_title": "Технология художественной обработки материалов",
+    "url": "https://tabiturient.ru/city/moscow/1094"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "30.00.00",
+    "ug_title": "ФУНДАМЕНТАЛЬНАЯ МЕДИЦИНА",
+    "direction_code": "30.05.03",
+    "direction_title": "Медицинская кибернетика",
+    "url": "https://tabiturient.ru/city/moscow/1243"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.01",
+    "direction_title": "Лесное дело",
+    "url": "https://tabiturient.ru/city/moscow/1097"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.02",
+    "direction_title": "Технология лесозаготовительных и деревоперерабатывающих производств",
+    "url": "https://tabiturient.ru/city/moscow/1098"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.06",
+    "direction_title": "Агроинженерия",
+    "url": "https://tabiturient.ru/city/moscow/1102"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.10",
+    "direction_title": "Ландшафтная архитектура",
+    "url": "https://tabiturient.ru/city/moscow/1106"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.11",
+    "direction_title": "Гидромелиорация",
+    "url": "https://tabiturient.ru/city/moscow/1107"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.01",
+    "direction_title": "Экономика",
+    "url": "https://tabiturient.ru/city/moscow/1112"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.02",
+    "direction_title": "Менеджмент",
+    "url": "https://tabiturient.ru/city/moscow/1113"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.03",
+    "direction_title": "Управление персоналом",
+    "url": "https://tabiturient.ru/city/moscow/1114"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.05",
+    "direction_title": "Бизнес-информатика",
+    "url": "https://tabiturient.ru/city/moscow/1116"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.06",
+    "direction_title": "Торговое дело",
+    "url": "https://tabiturient.ru/city/moscow/1117"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.07",
+    "direction_title": "Товароведение",
+    "url": "https://tabiturient.ru/city/moscow/1118"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.03.10",
+    "direction_title": "Жилищное хозяйство и коммунальная инфраструктура",
+    "url": "https://tabiturient.ru/city/moscow/1119"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "38.00.00",
+    "ug_title": "ЭКОНОМИКА И УПРАВЛЕНИЕ",
+    "direction_code": "38.05.01",
+    "direction_title": "Экономическая безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1253"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "44.00.00",
+    "ug_title": "ОБРАЗОВАНИЕ И ПЕДАГОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "44.03.01",
+    "direction_title": "Педагогическое образование",
+    "url": "https://tabiturient.ru/city/moscow/1138"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "44.00.00",
+    "ug_title": "ОБРАЗОВАНИЕ И ПЕДАГОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "44.03.05",
+    "direction_title": "Педагогическое образование (с двумя профилями подготовки)",
+    "url": "https://tabiturient.ru/city/moscow/1142"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "44.00.00",
+    "ug_title": "ОБРАЗОВАНИЕ И ПЕДАГОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "44.05.04",
+    "direction_title": "Профессиональное обучение (по отраслям)",
+    "url": "https://tabiturient.ru/city/moscow/1141"
+  },
+  {
+    "set_key": "rus_math_ict",
+    "ug_code": "45.00.00",
+    "ug_title": "ЯЗЫКОЗНАНИЕ И ЛИТЕРАТУРОВЕДЕНИЕ",
+    "direction_code": "45.03.04",
+    "direction_title": "Интеллектуальные системы в гуманитарной сфере",
+    "url": "https://tabiturient.ru/city/moscow/1146"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.01",
+    "direction_title": "Математика",
+    "url": "https://tabiturient.ru/city/moscow/1001"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.02",
+    "direction_title": "Прикладная математика и информатика",
+    "url": "https://tabiturient.ru/city/moscow/1002"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.03",
+    "direction_title": "Механика и математическое моделирование",
+    "url": "https://tabiturient.ru/city/moscow/1003"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "01.00.00",
+    "ug_title": "МАТЕМАТИКА И МЕХАНИКА",
+    "direction_code": "01.03.04",
+    "direction_title": "Прикладная математика",
+    "url": "https://tabiturient.ru/city/moscow/1004"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.01",
+    "direction_title": "Математика и компьютерные науки",
+    "url": "https://tabiturient.ru/city/moscow/1006"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.02",
+    "direction_title": "Фундаментальная информатика и информационные технологии",
+    "url": "https://tabiturient.ru/city/moscow/1007"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "02.00.00",
+    "ug_title": "КОМПЬЮТЕРНЫЕ И ИНФОРМАЦИОННЫЕ НАУКИ",
+    "direction_code": "02.03.03",
+    "direction_title": "Математическое обеспечение и администрирование информационных систем",
+    "url": "https://tabiturient.ru/city/moscow/1008"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "03.00.00",
+    "ug_title": "ФИЗИКА И АСТРОНОМИЯ",
+    "direction_code": "03.03.01",
+    "direction_title": "Прикладные математика и физика",
+    "url": "https://tabiturient.ru/city/moscow/1009"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "03.00.00",
+    "ug_title": "ФИЗИКА И АСТРОНОМИЯ",
+    "direction_code": "03.03.02",
+    "direction_title": "Физика",
+    "url": "https://tabiturient.ru/city/moscow/1010"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "04.00.00",
+    "ug_title": "ХИМИЯ",
+    "direction_code": "04.03.02",
+    "direction_title": "Химия, физика и механика материалов",
+    "url": "https://tabiturient.ru/city/moscow/1013"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "05.00.00",
+    "ug_title": "НАУКИ О ЗЕМЛЕ",
+    "direction_code": "05.03.01",
+    "direction_title": "Геология",
+    "url": "https://tabiturient.ru/city/moscow/1014"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "05.00.00",
+    "ug_title": "НАУКИ О ЗЕМЛЕ",
+    "direction_code": "05.03.03",
+    "direction_title": "Картография и геоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1016"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "06.00.00",
+    "ug_title": "БИОЛОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "06.05.01",
+    "direction_title": "Биоинженерия и биоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1187"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "07.00.00",
+    "ug_title": "АРХИТЕКТУРА",
+    "direction_code": "07.03.04",
+    "direction_title": "Градостроительство",
+    "url": "https://tabiturient.ru/city/moscow/1025"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "08.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ СТРОИТЕЛЬСТВА",
+    "direction_code": "08.03.01",
+    "direction_title": "Строительство",
+    "url": "https://tabiturient.ru/city/moscow/1026"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "08.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ СТРОИТЕЛЬСТВА",
+    "direction_code": "08.05.01",
+    "direction_title": "Строительство уникальных зданий и сооружений",
+    "url": "https://tabiturient.ru/city/moscow/1188"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.01",
+    "direction_title": "Информатика и вычислительная техника",
+    "url": "https://tabiturient.ru/city/moscow/1027"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.02",
+    "direction_title": "Информационные системы и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1028"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.03",
+    "direction_title": "Прикладная информатика",
+    "url": "https://tabiturient.ru/city/moscow/1029"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.03.04",
+    "direction_title": "Программная инженерия",
+    "url": "https://tabiturient.ru/city/moscow/1030"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "09.00.00",
+    "ug_title": "ИНФОРМАТИКА И ВЫЧИСЛИТЕЛЬНАЯ ТЕХНИКА",
+    "direction_code": "09.05.01",
+    "direction_title": "Применение и эксплуатация автоматизированных систем специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1469"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.03.01",
+    "direction_title": "Информационная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1031"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.01",
+    "direction_title": "Компьютерная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1190"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.02",
+    "direction_title": "Информационная безопасность телекоммуникационных систем",
+    "url": "https://tabiturient.ru/city/moscow/1191"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.03",
+    "direction_title": "Информационная безопасность автоматизированных систем",
+    "url": "https://tabiturient.ru/city/moscow/1192"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.04",
+    "direction_title": "Информационно-аналитические системы безопасности",
+    "url": "https://tabiturient.ru/city/moscow/1193"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "10.00.00",
+    "ug_title": "ИНФОРМАЦИОННАЯ БЕЗОПАСНОСТЬ",
+    "direction_code": "10.05.05",
+    "direction_title": "Безопасность информационных технологий в правоохранительной сфере",
+    "url": "https://tabiturient.ru/city/moscow/1194"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.01",
+    "direction_title": "Радиотехника",
+    "url": "https://tabiturient.ru/city/moscow/1032"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.02",
+    "direction_title": "Инфокоммуникационные технологии и системы связи",
+    "url": "https://tabiturient.ru/city/moscow/1033"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.03",
+    "direction_title": "Конструирование и технология электронных средств",
+    "url": "https://tabiturient.ru/city/moscow/1034"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.03.04",
+    "direction_title": "Электроника и наноэлектроника",
+    "url": "https://tabiturient.ru/city/moscow/1035"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "11.00.00",
+    "ug_title": "ЭЛЕКТРОНИКА, РАДИОТЕХНИКА И СИСТЕМЫ СВЯЗИ",
+    "direction_code": "11.05.01",
+    "direction_title": "Радиоэлектронные системы и комплексы",
+    "url": "https://tabiturient.ru/city/moscow/1195"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.01",
+    "direction_title": "Приборостроение",
+    "url": "https://tabiturient.ru/city/moscow/1036"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.03",
+    "direction_title": "Фотоника и оптоинформатика",
+    "url": "https://tabiturient.ru/city/moscow/1038"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.04",
+    "direction_title": "Биотехнические системы и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1039"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.03.05",
+    "direction_title": "Лазерная техника и лазерные технологии",
+    "url": "https://tabiturient.ru/city/moscow/1040"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "12.00.00",
+    "ug_title": "ФОТОНИКА, ПРИБОРОСТРОЕНИЕ, ОПТИЧЕСКИЕ И БИОТЕХНИЧЕСКИЕ СИСТЕМЫ И ТЕХНОЛОГИИ",
+    "direction_code": "12.05.01",
+    "direction_title": "Электронные и оптико-электронные приборы и системы специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1197"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.01",
+    "direction_title": "Теплоэнергетика и теплотехника",
+    "url": "https://tabiturient.ru/city/moscow/1041"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.02",
+    "direction_title": "Электроэнергетика и электротехника",
+    "url": "https://tabiturient.ru/city/moscow/1042"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "13.00.00",
+    "ug_title": "ЭЛЕКТРО- И ТЕПЛОЭНЕРГЕТИКА",
+    "direction_code": "13.03.03",
+    "direction_title": "Энергетическое машиностроение",
+    "url": "https://tabiturient.ru/city/moscow/1043"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.03.01",
+    "direction_title": "Ядерная энергетика и теплофизика",
+    "url": "https://tabiturient.ru/city/moscow/1044"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.03.02",
+    "direction_title": "Ядерные физика и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1045"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.05.01",
+    "direction_title": "Ядерные реакторы и материалы",
+    "url": "https://tabiturient.ru/city/moscow/1198"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.05.02",
+    "direction_title": "Атомные станции: проектирование, эксплуатация и инжиниринг",
+    "url": "https://tabiturient.ru/city/moscow/1199"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "14.00.00",
+    "ug_title": "ЯДЕРНАЯ ЭНЕРГЕТИКА И ТЕХНОЛОГИИ",
+    "direction_code": "14.05.04",
+    "direction_title": "Электроника и автоматика физических установок",
+    "url": "https://tabiturient.ru/city/moscow/1468"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.01",
+    "direction_title": "Машиностроение",
+    "url": "https://tabiturient.ru/city/moscow/1046"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.02",
+    "direction_title": "Технологические машины и оборудование",
+    "url": "https://tabiturient.ru/city/moscow/1047"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.03",
+    "direction_title": "Прикладная механика",
+    "url": "https://tabiturient.ru/city/moscow/1048"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.04",
+    "direction_title": "Автоматизация технологических процессов и производств",
+    "url": "https://tabiturient.ru/city/moscow/1049"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.05",
+    "direction_title": "Конструкторско-технологическое обеспечение машиностроительных производств",
+    "url": "https://tabiturient.ru/city/moscow/1050"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.03.06",
+    "direction_title": "Мехатроника и робототехника",
+    "url": "https://tabiturient.ru/city/moscow/1051"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.05.01",
+    "direction_title": "Проектирование технологических машин и комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1201"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "15.00.00",
+    "ug_title": "МАШИНОСТРОЕНИЕ",
+    "direction_code": "15.05.02",
+    "direction_title": "Робототехника военного и специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1478"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "16.00.00",
+    "ug_title": "ФИЗИКО-ТЕХНИЧЕСКИЕ НАУКИ И ТЕХНОЛОГИИ",
+    "direction_code": "16.03.01",
+    "direction_title": "Техническая физика",
+    "url": "https://tabiturient.ru/city/moscow/1052"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "16.00.00",
+    "ug_title": "ФИЗИКО-ТЕХНИЧЕСКИЕ НАУКИ И ТЕХНОЛОГИИ",
+    "direction_code": "16.03.02",
+    "direction_title": "Высокотехнологические плазменные и энергетические установки",
+    "url": "https://tabiturient.ru/city/moscow/1053"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "16.00.00",
+    "ug_title": "ФИЗИКО-ТЕХНИЧЕСКИЕ НАУКИ И ТЕХНОЛОГИИ",
+    "direction_code": "16.03.03",
+    "direction_title": "Холодильная, криогенная техника и системы жизнеобеспечения",
+    "url": "https://tabiturient.ru/city/moscow/1054"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "16.00.00",
+    "ug_title": "ФИЗИКО-ТЕХНИЧЕСКИЕ НАУКИ И ТЕХНОЛОГИИ",
+    "direction_code": "16.05.01",
+    "direction_title": "Специальные системы жизнеобеспечения",
+    "url": "https://tabiturient.ru/city/moscow/1202"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "17.00.00",
+    "ug_title": "ОРУЖИЕ И СИСТЕМЫ ВООРУЖЕНИЯ",
+    "direction_code": "17.05.01",
+    "direction_title": "Боеприпасы и взрыватели",
+    "url": "https://tabiturient.ru/city/moscow/1203"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "17.00.00",
+    "ug_title": "ОРУЖИЕ И СИСТЕМЫ ВООРУЖЕНИЯ",
+    "direction_code": "17.05.02",
+    "direction_title": "Стрелково-пушечное, артиллерийское и ракетное оружие",
+    "url": "https://tabiturient.ru/city/moscow/1204"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "18.00.00",
+    "ug_title": "ХИМИЧЕСКИЕ ТЕХНОЛОГИИ",
+    "direction_code": "18.03.02",
+    "direction_title": "Энерго- и ресурсосберегающие процессы в химической технологии, нефтехимии и биотехнологии",
+    "url": "https://tabiturient.ru/city/moscow/1057"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "19.00.00",
+    "ug_title": "ПРОМЫШЛЕННАЯ ЭКОЛОГИЯ И БИОТЕХНОЛОГИИ",
+    "direction_code": "19.03.02",
+    "direction_title": "Продукты питания из растительного сырья",
+    "url": "https://tabiturient.ru/city/moscow/1059"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "19.00.00",
+    "ug_title": "ПРОМЫШЛЕННАЯ ЭКОЛОГИЯ И БИОТЕХНОЛОГИИ",
+    "direction_code": "19.03.03",
+    "direction_title": "Продукты питания животного происхождения",
+    "url": "https://tabiturient.ru/city/moscow/1060"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "19.00.00",
+    "ug_title": "ПРОМЫШЛЕННАЯ ЭКОЛОГИЯ И БИОТЕХНОЛОГИИ",
+    "direction_code": "19.03.04",
+    "direction_title": "Технология продукции и организация общественного питания",
+    "url": "https://tabiturient.ru/city/moscow/1061"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.03.01",
+    "direction_title": "Техносферная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1062"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.03.02",
+    "direction_title": "Природообустройство и водопользование",
+    "url": "https://tabiturient.ru/city/moscow/1063"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "20.00.00",
+    "ug_title": "ТЕХНОСФЕРНАЯ БЕЗОПАСНОСТЬ И ПРИРОДООБУСТРОЙСТВО",
+    "direction_code": "20.05.01",
+    "direction_title": "Пожарная безопасность",
+    "url": "https://tabiturient.ru/city/moscow/1208"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.01",
+    "direction_title": "Нефтегазовое дело",
+    "url": "https://tabiturient.ru/city/moscow/1064"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.02",
+    "direction_title": "Землеустройство и кадастры",
+    "url": "https://tabiturient.ru/city/moscow/1065"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.03.03",
+    "direction_title": "Геодезия и дистанционное зондирование",
+    "url": "https://tabiturient.ru/city/moscow/1066"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.01",
+    "direction_title": "Прикладная геодезия",
+    "url": "https://tabiturient.ru/city/moscow/1209"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.02",
+    "direction_title": "Прикладная геология",
+    "url": "https://tabiturient.ru/city/moscow/1210"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.03",
+    "direction_title": "Технология геологической разведки",
+    "url": "https://tabiturient.ru/city/moscow/1211"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.04",
+    "direction_title": "Горное дело",
+    "url": "https://tabiturient.ru/city/moscow/1212"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.05",
+    "direction_title": "Физические процессы горного или нефтегазового производства",
+    "url": "https://tabiturient.ru/city/moscow/1213"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "21.00.00",
+    "ug_title": "ПРИКЛАДНАЯ ГЕОЛОГИЯ, ГОРНОЕ ДЕЛО, НЕФТЕГАЗОВОЕ ДЕЛО И ГЕОДЕЗИЯ",
+    "direction_code": "21.05.06",
+    "direction_title": "Нефтегазовые техника и технологии",
+    "url": "https://tabiturient.ru/city/moscow/1214"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "22.00.00",
+    "ug_title": "ТЕХНОЛОГИИ МАТЕРИАЛОВ",
+    "direction_code": "22.03.01",
+    "direction_title": "Материаловедение и технологии материалов",
+    "url": "https://tabiturient.ru/city/moscow/1067"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "22.00.00",
+    "ug_title": "ТЕХНОЛОГИИ МАТЕРИАЛОВ",
+    "direction_code": "22.03.02",
+    "direction_title": "Металлургия",
+    "url": "https://tabiturient.ru/city/moscow/1068"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.01",
+    "direction_title": "Технология транспортных процессов",
+    "url": "https://tabiturient.ru/city/moscow/1069"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.02",
+    "direction_title": "Наземные транспортно-технологические комплексы",
+    "url": "https://tabiturient.ru/city/moscow/1070"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.03.03",
+    "direction_title": "Эксплуатация транспортно-технологических машин и комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1071"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.01",
+    "direction_title": "Наземные транспортно-технологические средства",
+    "url": "https://tabiturient.ru/city/moscow/1215"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.02",
+    "direction_title": "Транспортные средства специального назначения",
+    "url": "https://tabiturient.ru/city/moscow/1216"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.03",
+    "direction_title": "Подвижной состав железных дорог",
+    "url": "https://tabiturient.ru/city/moscow/1217"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.04",
+    "direction_title": "Эксплуатация железных дорог",
+    "url": "https://tabiturient.ru/city/moscow/1218"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.05",
+    "direction_title": "Системы обеспечения движения поездов",
+    "url": "https://tabiturient.ru/city/moscow/1219"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "23.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ НАЗЕМНОГО ТРАНСПОРТА",
+    "direction_code": "23.05.06",
+    "direction_title": "Строительство железных дорог, мостов и транспортных тоннелей",
+    "url": "https://tabiturient.ru/city/moscow/1220"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.01",
+    "direction_title": "Ракетные комплексы и космонавтика",
+    "url": "https://tabiturient.ru/city/moscow/1072"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.03",
+    "direction_title": "Баллистика и гидроаэродинамика",
+    "url": "https://tabiturient.ru/city/moscow/1074"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.04",
+    "direction_title": "Авиастроение",
+    "url": "https://tabiturient.ru/city/moscow/1075"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.03.05",
+    "direction_title": "Двигатели летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1076"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.01",
+    "direction_title": "Проектирование, производство и эксплуатация ракет и ракетно-космических комплексов",
+    "url": "https://tabiturient.ru/city/moscow/1221"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.02",
+    "direction_title": "Проектирование авиационных и ракетных двигателей",
+    "url": "https://tabiturient.ru/city/moscow/1222"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.03",
+    "direction_title": "Испытание летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1223"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.04",
+    "direction_title": "Навигационно-баллистическое обеспечение применения космической техники",
+    "url": "https://tabiturient.ru/city/moscow/1224"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.05",
+    "direction_title": "Интегрированные системы летательных аппаратов",
+    "url": "https://tabiturient.ru/city/moscow/1225"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.06",
+    "direction_title": "Системы управления летательными аппаратами",
+    "url": "https://tabiturient.ru/city/moscow/1226"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "24.00.00",
+    "ug_title": "АВИАЦИОННАЯ И РАКЕТНОКОСМИЧЕСКАЯ ТЕХНИКА",
+    "direction_code": "24.05.07",
+    "direction_title": "Самолето- и вертолетостроение",
+    "url": "https://tabiturient.ru/city/moscow/1227"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.03.01",
+    "direction_title": "Техническая эксплуатация летательных аппаратов и двигателей",
+    "url": "https://tabiturient.ru/city/moscow/1077"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.03.03",
+    "direction_title": "Аэронавигация",
+    "url": "https://tabiturient.ru/city/moscow/1079"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.05.03",
+    "direction_title": "Техническая эксплуатация транспортного радиооборудования",
+    "url": "https://tabiturient.ru/city/moscow/1230"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "25.00.00",
+    "ug_title": "АЭРОНАВИГАЦИЯ И ЭКСПЛУАТАЦИЯ АВИАЦИОННОЙ И РАКЕТНОКОСМИЧЕСКОЙ ТЕХНИКИ",
+    "direction_code": "25.05.05",
+    "direction_title": "Эксплуатация воздушных судов и организация воздушного движения",
+    "url": "https://tabiturient.ru/city/moscow/1232"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.03.01",
+    "direction_title": "Управление водным транспортом и гидрографическое обеспечение судоходства",
+    "url": "https://tabiturient.ru/city/moscow/1081"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.03.02",
+    "direction_title": "Кораблестроение, океанотехника и системотехника объектов морской инфраструктуры",
+    "url": "https://tabiturient.ru/city/moscow/1082"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.03.03",
+    "direction_title": "Водные пути, порты и гидротехнические сооружения",
+    "url": "https://tabiturient.ru/city/moscow/1477"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.05",
+    "direction_title": "Судовождение",
+    "url": "https://tabiturient.ru/city/moscow/1237"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.06",
+    "direction_title": "Эксплуатация судовых энергетических установок",
+    "url": "https://tabiturient.ru/city/moscow/1238"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "26.00.00",
+    "ug_title": "ТЕХНИКА И ТЕХНОЛОГИИ КОРАБЛЕСТРОЕНИЯ И ВОДНОГО ТРАНСПОРТА",
+    "direction_code": "26.05.07",
+    "direction_title": "Эксплуатация судового электрооборудования и средств автоматики",
+    "url": "https://tabiturient.ru/city/moscow/1239"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.01",
+    "direction_title": "Стандартизация и метрология",
+    "url": "https://tabiturient.ru/city/moscow/1083"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.02",
+    "direction_title": "Управление качеством",
+    "url": "https://tabiturient.ru/city/moscow/1084"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.03",
+    "direction_title": "Системный анализ и управление",
+    "url": "https://tabiturient.ru/city/moscow/1085"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.04",
+    "direction_title": "Управление в технических системах",
+    "url": "https://tabiturient.ru/city/moscow/1086"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "27.00.00",
+    "ug_title": "УПРАВЛЕНИЕ В ТЕХНИЧЕСКИХ СИСТЕМАХ",
+    "direction_code": "27.03.05",
+    "direction_title": "Инноватика",
+    "url": "https://tabiturient.ru/city/moscow/1087"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.01",
+    "direction_title": "Нанотехнологии и микросистемная техника",
+    "url": "https://tabiturient.ru/city/moscow/1088"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.02",
+    "direction_title": "Наноинженерия",
+    "url": "https://tabiturient.ru/city/moscow/1089"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "28.00.00",
+    "ug_title": "НАНОТЕХНОЛОГИИ И НАНОМАТЕРИАЛЫ",
+    "direction_code": "28.03.03",
+    "direction_title": "Наноматериалы",
+    "url": "https://tabiturient.ru/city/moscow/1090"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.01",
+    "direction_title": "Технология изделий легкой промышленности",
+    "url": "https://tabiturient.ru/city/moscow/1091"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.03",
+    "direction_title": "Технология полиграфического и упаковочного производства",
+    "url": "https://tabiturient.ru/city/moscow/1093"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "29.00.00",
+    "ug_title": "ТЕХНОЛОГИИ ЛЕГКОЙ ПРОМЫШЛЕННОСТИ",
+    "direction_code": "29.03.04",
+    "direction_title": "Технология художественной обработки материалов",
+    "url": "https://tabiturient.ru/city/moscow/1094"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.01",
+    "direction_title": "Лесное дело",
+    "url": "https://tabiturient.ru/city/moscow/1097"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.02",
+    "direction_title": "Технология лесозаготовительных и деревоперерабатывающих производств",
+    "url": "https://tabiturient.ru/city/moscow/1098"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.06",
+    "direction_title": "Агроинженерия",
+    "url": "https://tabiturient.ru/city/moscow/1102"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.10",
+    "direction_title": "Ландшафтная архитектура",
+    "url": "https://tabiturient.ru/city/moscow/1106"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "35.00.00",
+    "ug_title": "СЕЛЬСКОЕ, ЛЕСНОЕ И РЫБНОЕ ХОЗЯЙСТВО",
+    "direction_code": "35.03.11",
+    "direction_title": "Гидромелиорация",
+    "url": "https://tabiturient.ru/city/moscow/1107"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "44.00.00",
+    "ug_title": "ОБРАЗОВАНИЕ И ПЕДАГОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "44.03.01",
+    "direction_title": "Педагогическое образование",
+    "url": "https://tabiturient.ru/city/moscow/1138"
+  },
+  {
+    "set_key": "rus_math_phys",
+    "ug_code": "44.00.00",
+    "ug_title": "ОБРАЗОВАНИЕ И ПЕДАГОГИЧЕСКИЕ НАУКИ",
+    "direction_code": "44.03.05",
+    "direction_title": "Педагогическое образование (с двумя профилями подготовки)",
+    "url": "https://tabiturient.ru/city/moscow/1142"
+  }
+]
