@@ -5,44 +5,175 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>ЕГЭ → направления (Москва/МО)</title>
   <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 24px; }
-    .row { display:flex; gap:12px; flex-wrap:wrap; align-items:center; }
-    .box { border:1px solid #ddd; border-radius:10px; padding:14px; }
-    input, select { padding:10px; border:1px solid #ccc; border-radius:10px; }
-    input { min-width: 340px; }
-    h1 { margin: 0 0 12px; }
-    h2 { margin: 18px 0 8px; font-size: 18px; }
-    .muted { color:#666; font-size: 13px; }
-    .dir { border:1px solid #eee; border-radius:10px; padding:10px 12px; margin: 8px 0; }
-    .pill { display:inline-block; padding:3px 8px; border:1px solid #bbb; border-radius:999px; margin-right:6px; font-size:12px; }
-    a { color:#0b57d0; text-decoration:none; }
-    a:hover { text-decoration:underline; }
+    :root{
+      --bg:#0b0f17;
+      --panel:#101827;
+      --card:#0f172a;
+      --muted:rgba(255,255,255,.68);
+      --text:rgba(255,255,255,.92);
+      --line:rgba(255,255,255,.12);
+      --pill:rgba(255,255,255,.10);
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --radius:16px;
+    }
+    *{ box-sizing:border-box; }
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: radial-gradient(1200px 600px at 20% 0%, rgba(59,130,246,.25), transparent 60%),
+                  radial-gradient(1000px 700px at 90% 10%, rgba(168,85,247,.18), transparent 55%),
+                  var(--bg);
+      color:var(--text);
+    }
+    .wrap{ max-width:1100px; margin:0 auto; padding:22px; }
+    header{ display:flex; gap:14px; align-items:flex-start; justify-content:space-between; flex-wrap:wrap; }
+    .title h1{ margin:0; font-size:22px; letter-spacing:.2px; }
+    .title .sub{ margin-top:6px; color:var(--muted); font-size:13px; line-height:1.35; }
+    .support{
+      min-width:280px;
+      flex:1;
+      background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.04));
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      padding:14px 14px 12px;
+      box-shadow: var(--shadow);
+    }
+    .support .kicker{ color:var(--muted); font-size:12px; margin-bottom:8px; }
+    .support .quote{ font-size:14px; line-height:1.4; margin:0 0 10px; }
+    .btn{
+      display:inline-flex; align-items:center; justify-content:center;
+      padding:9px 12px; border-radius:12px;
+      border:1px solid var(--line);
+      background: rgba(255,255,255,.06);
+      color: var(--text);
+      cursor:pointer;
+    }
+    .btn:hover{ background: rgba(255,255,255,.09); }
+    .sticky{
+      position: sticky; top: 0;
+      padding: 14px 0 10px;
+      background: linear-gradient(180deg, rgba(11,15,23,.95), rgba(11,15,23,.75), transparent);
+      backdrop-filter: blur(8px);
+      z-index: 5;
+    }
+    .filters{
+      display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+      background: rgba(255,255,255,.05);
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 12px;
+      box-shadow: var(--shadow);
+    }
+    select,input{
+      padding:10px 12px;
+      border-radius:12px;
+      border:1px solid var(--line);
+      background: rgba(15,23,42,.65);
+      color: var(--text);
+      outline: none;
+      min-width: 220px;
+    }
+    input{ min-width: 320px; flex:1; }
+    .meta{ color:var(--muted); font-size:12px; margin-left:auto; }
+    .content{ margin-top:12px; }
+    details.group{
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255,255,255,.04);
+      margin: 10px 0;
+      overflow:hidden;
+      box-shadow: var(--shadow);
+    }
+    summary{
+      list-style:none;
+      cursor:pointer;
+      padding: 14px 14px;
+      display:flex;
+      gap:10px;
+      align-items:center;
+      user-select:none;
+    }
+    summary::-webkit-details-marker{ display:none; }
+    .ug-code{ font-weight:700; letter-spacing:.2px; }
+    .ug-title{ color:var(--muted); }
+    .count{ margin-left:auto; color:var(--muted); font-size:12px; }
+    .group-body{ border-top:1px solid var(--line); padding: 10px 14px 14px; }
+    .dir{
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(15,23,42,.55);
+      border-radius: 14px;
+      padding: 10px 12px;
+      margin: 8px 0;
+    }
+    .dir-top{ display:flex; gap:10px; align-items:flex-start; flex-wrap:wrap; }
+    .dir-title{ flex:1; min-width: 240px; }
+    .dir-title b{ letter-spacing:.2px; }
+    .pills{ display:flex; gap:6px; flex-wrap:wrap; }
+    .pill{
+      display:inline-flex; align-items:center;
+      padding: 3px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      background: var(--pill);
+      border: 1px solid rgba(255,255,255,.14);
+      color: rgba(255,255,255,.85);
+    }
+    .note{ color:var(--muted); font-size:12px; margin-top:6px; }
+    a{ color: rgba(147,197,253,.95); text-decoration:none; }
+    a:hover{ text-decoration:underline; }
+    .footer-note{
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
   </style>
 </head>
 <body>
-  <h1>Направления по ЕГЭ (Москва/МО)</h1>
+  <div class="wrap">
+    <header>
+      <div class="title">
+        <h1>Направления по ЕГЭ (Москва/МО)</h1>
+        <div class="sub">
+          Русский и математика подразумеваются для всех направлений.<br/>
+          Плашки показывают третий предмет: <b>ИКТ</b> или <b>Ф</b>.
+        </div>
+      </div>
 
-  <div class="box">
-    <div class="row">
-      <label>
-        Набор ЕГЭ:
-        <select id="setFilter">
-          <option value="any">Любой (ИКТ ∪ Физика)</option>
-          <option value="rus_math_ict">Русский + Математика + ИКТ</option>
-          <option value="rus_math_phys">Русский + Математика + Физика</option>
-        </select>
-      </label>
+      <div class="support">
+        <div class="kicker">Для Миши</div>
+        <p class="quote" id="supportText"></p>
+        <button class="btn" id="supportBtn">Ещё фраза</button>
+      </div>
+    </header>
 
-      <label>
-        Поиск:
-        <input id="q" type="text" placeholder="код или название (например 09.03.04 / программная инженерия)" />
-      </label>
+    <div class="sticky">
+      <div class="filters">
+        <label>
+          Набор:
+          <select id="setFilter">
+            <option value="any">ИКТ ∪ Ф (любой)</option>
+            <option value="rus_math_ict">ИКТ</option>
+            <option value="rus_math_phys">Ф</option>
+            <option value="both">ИКТ ∩ Ф (оба подходят)</option>
+          </select>
+        </label>
 
-      <span class="muted" id="stats"></span>
+        <label style="flex:1; min-width:320px;">
+          Поиск:
+          <input id="q" type="text" placeholder="код или название (например 09.03.04 / программная инженерия)" />
+        </label>
+
+        <span class="meta" id="stats"></span>
+      </div>
+    </div>
+
+    <div class="content" id="app"></div>
+
+    <div class="footer-note">
+      Источник направлений: tabiturient.ru (Москва/МО) + перечень направлений (ОКСО/приказ). Сайт — для ориентира и удобной навигации, окончательные условия проверяйте на страницах вузов.
     </div>
   </div>
-
-  <div id="app" style="margin-top:14px"></div>
 
   <script src="app.js"></script>
 </body>
