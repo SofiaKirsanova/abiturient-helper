@@ -1,0 +1,21 @@
+{
+  "official_total": 91,
+  "aggregators_union_total": 62,
+  "matched_exact": 7,
+  "matched_fuzzy": 10,
+  "matched_total": 17,
+  "unmatched_official": 74,
+  "unmatched_aggregators": 40,
+  "review_count": 2,
+  "branch_count": 0,
+  "sources": {
+    "postupi": 20,
+    "tabiturient": 25,
+    "ucheba": 17,
+    "ucheba_subunits": 3
+  },
+  "paths": {
+    "official": "/users/4/kirsa002/parsing/abiturient-helper/data/processed/universities.unique.json",
+    "aggregators_clean_dir": "/users/4/kirsa002/parsing/abiturient-helper/data/processed/aggregators_clean"
+  }
+}

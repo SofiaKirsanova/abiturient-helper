@@ -1,0 +1,22 @@
+{
+  "inputs": {
+    "postupi": "/users/4/kirsa002/parsing/abiturient-helper/data/processed/aggregators/postupi_moscow_vuz.names.json",
+    "tabiturient": "/users/4/kirsa002/parsing/abiturient-helper/data/processed/aggregators/tabiturient_moscow_mo_vuz.names.json",
+    "ucheba": "/users/4/kirsa002/parsing/abiturient-helper/data/processed/aggregators/ucheba_moscow_mo_vuz.names.json"
+  },
+  "postupi": {
+    "dropped_exact": 1,
+    "kept": 20
+  },
+  "tabiturient": {
+    "dropped": 17,
+    "extracted_from_long": 44,
+    "kept": 25
+  },
+  "ucheba": {
+    "dropped": 7,
+    "cut_count": 40,
+    "kept": 17,
+    "subunits_kept": 3
+  }
+}
