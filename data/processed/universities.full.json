@@ -221,7 +221,7 @@
     "aggregator_sources": []
   },
   {
-    "id": "084f2c47-602b-4c0e-97a0-8b96bbb67d46",
+    "id": "c414ca61-67ac-4eeb-8cd7-a7c219eb1cf0",
     "organization_name": "Инженерно-экономический институт Национального исследовательского университета «МЭИ»",
     "source": "aggregator",
     "review": true,
@@ -231,17 +231,17 @@
     ]
   },
   {
-    "id": "c5978c2c-55bc-4a15-9e55-46fc96850280",
+    "id": "a7682b39-e023-4535-ac24-ef83ad939aaf",
     "organization_name": "Институт международных экономических связей",
     "source": "aggregator",
     "review": true,
-    "is_branch": true,
+    "is_branch": false,
     "aggregator_sources": [
       "postupi"
     ]
   },
   {
-    "id": "7f777402-0c03-4611-b675-3545c3c9bfbe",
+    "id": "19884fed-1280-4341-9f1d-129be911c6bf",
     "organization_name": "Институт управления РАНХиГС",
     "source": "aggregator",
     "review": true,
@@ -251,7 +251,7 @@
     ]
   },
   {
-    "id": "34d7d956-97c8-4200-af5b-64ee9cc98998",
+    "id": "df6c4f01-6d1d-44e6-a55d-9b7c2bf9b915",
     "organization_name": "Институт экономики, математики и информационных технологий РАНХиГС",
     "source": "aggregator",
     "review": true,
@@ -261,7 +261,7 @@
     ]
   },
   {
-    "id": "f7f5cff1-77a8-44d6-a073-2eade3d835c4",
+    "id": "e4950c76-499a-4fca-bea9-6f22064a9a01",
     "organization_name": "Международная академия бизнеса и управления",
     "source": "aggregator",
     "review": true,
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "id": "e8acdcdb-7cff-4dfa-a2d4-6fb1612d0e57",
+    "id": "ebbcdbbf-a322-417c-98f6-f0c0c1db5d28",
     "organization_name": "Международный институт экономики и права",
     "source": "aggregator",
     "review": true,
@@ -282,7 +282,7 @@
     ]
   },
   {
-    "id": "333d266e-1571-4173-b13e-1e35633697fd",
+    "id": "4a83a4e7-2b51-462f-a821-e2be626fbfd8",
     "organization_name": "Московская академия предпринимательства",
     "source": "aggregator",
     "review": true,
@@ -292,7 +292,7 @@
     ]
   },
   {
-    "id": "82b00703-02cf-439f-b892-a3e91d8f7e73",
+    "id": "830332b8-ac25-466f-b7a1-3d81575cbc42",
     "organization_name": "Московская сельскохозяйственная академия имени К. А. Тимирязева",
     "source": "aggregator",
     "review": true,
@@ -302,7 +302,7 @@
     ]
   },
   {
-    "id": "a687943d-a1aa-41bb-bad4-4f6c73a52bc3",
+    "id": "2c674879-8e92-42d8-88c7-726d75547d53",
     "organization_name": "Московский авиационный институт (национальный исследовательский университет) (МАИ)",
     "source": "aggregator",
     "review": true,
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "id": "aa41acea-422e-47b4-a374-6e0270629224",
+    "id": "0a6cfde0-3219-44c1-82c4-caf493dc5465",
     "organization_name": "Московский государственный медицинский университет имени И. М. Сеченова",
     "source": "aggregator",
     "review": true,
@@ -322,7 +322,7 @@
     ]
   },
   {
-    "id": "ad409972-b40d-4019-86dd-ac5be9def187",
+    "id": "4142ad24-d8f1-4168-bd36-e2f4d7d4f9c1",
     "organization_name": "Московский государственный технический университет им. Н.Э. Баумана (национальный исследовательский университет)",
     "source": "aggregator",
     "review": true,
@@ -332,7 +332,7 @@
     ]
   },
   {
-    "id": "c5c3eb0e-d3f5-4ddf-b4e4-1d672aac83f9",
+    "id": "ec7bf0d9-63f5-4d23-9a0c-9cebbbecd515",
     "organization_name": "Московский государственный технологический университет «СТАНКИН»",
     "source": "aggregator",
     "review": true,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "id": "fe3b424c-a68b-4fda-9447-b6e7140e0940",
+    "id": "5961ea9e-19e6-445f-8921-1ab0d5cdcf2e",
     "organization_name": "Московский государственный университет имени М.В. Ломоносова",
     "source": "aggregator",
     "review": true,
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "id": "14481244-6bfb-4784-a20d-88dfc747218f",
+    "id": "4c1c64dc-4fe8-42ea-ba79-f26ef0f9a0b9",
     "organization_name": "Московский медицинский университет Реавиз",
     "source": "aggregator",
     "review": true,
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "id": "945f8248-53b4-44d8-b408-b4bbe64e6fde",
+    "id": "1f5b09b0-0dae-48bc-b91d-8920c5b66564",
     "organization_name": "Московский международный университет",
     "source": "aggregator",
     "review": true,
@@ -372,7 +372,7 @@
     ]
   },
   {
-    "id": "0809c649-0b19-48e7-9f72-df977a4be788",
+    "id": "4095db32-061a-47d8-950a-f8dd7668f4df",
     "organization_name": "Московский политехнический университет",
     "source": "aggregator",
     "review": true,
@@ -382,7 +382,7 @@
     ]
   },
   {
-    "id": "060c9985-64dd-40fd-b18b-c474012f235a",
+    "id": "1789ba03-487b-40fc-a076-dcb77ba6f9e7",
     "organization_name": "Московский технический университет связи и информатики",
     "source": "aggregator",
     "review": true,
@@ -393,7 +393,7 @@
     ]
   },
   {
-    "id": "abb5a86d-b1fd-4325-9c74-22c1f7a684f8",
+    "id": "42e37a84-a681-4574-a76a-1befc2c1c70b",
     "organization_name": "Московский университет Синергия",
     "source": "aggregator",
     "review": true,
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "id": "e8bd4f3f-e474-47cd-9051-738dcc34e216",
+    "id": "c78f9444-7e33-4e6e-a137-b2330d953309",
     "organization_name": "Московский Физико-Технический Институт (государственный университет)",
     "source": "aggregator",
     "review": true,
@@ -413,7 +413,7 @@
     ]
   },
   {
-    "id": "cf5a6def-a5b8-46cd-8966-8f7238e65103",
+    "id": "ed225d3e-7cc2-4787-a5c4-0f815b68a161",
     "organization_name": "Национальный исследовательский университет \"Московский энергетический институт\"",
     "source": "aggregator",
     "review": true,
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "id": "a33da45c-3e84-4d28-9303-fa27225796f5",
+    "id": "a5742ab7-3eed-4ac0-89c6-8a7ed5aed239",
     "organization_name": "Национальный исследовательский ядерный университет (Московский инженерно-физический институт)",
     "source": "aggregator",
     "review": true,
@@ -550,7 +550,7 @@
     "aggregator_sources": []
   },
   {
-    "id": "a344053c-4a7e-4826-a70b-8d161eed6a59",
+    "id": "32921a79-8b2b-4c9e-a46f-7fcb2d287719",
     "organization_name": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
     "source": "aggregator",
     "review": true,
@@ -560,7 +560,7 @@
     ]
   },
   {
-    "id": "1ecfb819-135f-4a8d-8764-7491cc93918d",
+    "id": "b125075e-92dc-4e5c-bcd6-f0632180e569",
     "organization_name": "Российская Академия Народного Хозяйства и Государственной Службы при Президенте РФ",
     "source": "aggregator",
     "review": true,
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "id": "5402c40d-e23f-4fa9-ad70-1bb3cc483aaf",
+    "id": "f7f003d0-9f7e-400c-90d9-cc50ee94526f",
     "organization_name": "Российский биотехнологический университет",
     "source": "aggregator",
     "review": true,
@@ -580,7 +580,7 @@
     ]
   },
   {
-    "id": "f696f83e-54fb-4dfc-b918-d4cc24ecdad8",
+    "id": "2ce5e877-c7c6-47d9-a24e-085d9c25285f",
     "organization_name": "Российский государственный аграрный университет - МСХА имени К.А. Тимирязева",
     "source": "aggregator",
     "review": true,
@@ -591,7 +591,7 @@
     ]
   },
   {
-    "id": "7d7b9ffe-c7ce-403d-b835-79c5eb2945c1",
+    "id": "5c662159-4ef0-4c73-8b9c-c06be003da13",
     "organization_name": "Российский Государственный Гуманитарный Университет",
     "source": "aggregator",
     "review": true,
@@ -601,7 +601,7 @@
     ]
   },
   {
-    "id": "a4419936-03fd-473c-aeee-3cefee038f91",
+    "id": "f74749ce-0581-430c-9f48-54040064698f",
     "organization_name": "Российский государственный социальный университет",
     "source": "aggregator",
     "review": true,
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "id": "a3a4892f-2943-4269-ac8c-2151eaf05d85",
+    "id": "7fe1fa8e-c1b3-42a6-9654-f649282da0b3",
     "organization_name": "Российский государственный университет имени А.Н. Косыгина (Технологии.Дизайн.Искусство)",
     "source": "aggregator",
     "review": true,
@@ -621,7 +621,7 @@
     ]
   },
   {
-    "id": "5aece38c-06a0-4697-872b-5f2b16fb9bb9",
+    "id": "b2ad6cf2-e223-4437-8efd-f00bb5e310b6",
     "organization_name": "Российский государственный университет нефти и газа (национальный исследовательский университет) имени И.М Губкина",
     "source": "aggregator",
     "review": true,
@@ -631,7 +631,7 @@
     ]
   },
   {
-    "id": "6ee89a7e-14c2-4e3f-9784-2b5ea956ed69",
+    "id": "7a6fc1a7-30da-4b4e-8c4a-5a7083e4b44c",
     "organization_name": "Российский национальный исследовательский медицинский университет имени Н. И. Пирогова",
     "source": "aggregator",
     "review": true,
@@ -641,7 +641,7 @@
     ]
   },
   {
-    "id": "5a5a4ef8-b98c-4d75-8088-8aa257a3d2aa",
+    "id": "818be33c-5d5b-46f2-a94a-af06248bd214",
     "organization_name": "Российский национальный исследовательский медицинский университет имени Н.И. Пирогова",
     "source": "aggregator",
     "review": true,
@@ -651,7 +651,7 @@
     ]
   },
   {
-    "id": "42c6e4f6-bd4b-414c-aee9-aa80de28f4c2",
+    "id": "e95f428a-edbe-436a-8c66-29c67cd6ceca",
     "organization_name": "Российский новый университет",
     "source": "aggregator",
     "review": true,
@@ -661,7 +661,7 @@
     ]
   },
   {
-    "id": "07a4460d-c378-498d-a827-75fb31ed7e39",
+    "id": "7639371d-0a61-426c-af7d-ccde47d48023",
     "organization_name": "Российский технологический университет",
     "source": "aggregator",
     "review": true,
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "id": "c399c0d0-1e08-4b7b-abd2-9b11b617bf4c",
+    "id": "11742c69-f4f1-4416-a384-4d26815f713d",
     "organization_name": "Университет «Синергия»",
     "source": "aggregator",
     "review": true,
@@ -681,7 +681,7 @@
     ]
   },
   {
-    "id": "075b5a07-23bb-445c-a413-4f17232fcdd0",
+    "id": "1e6cf049-09c2-4560-933e-e22b13c99c73",
     "organization_name": "Университет управления и инновационных технологий",
     "source": "aggregator",
     "review": true,
@@ -1484,7 +1484,7 @@
     "aggregator_sources": []
   },
   {
-    "id": "66cf4c83-f839-4186-855a-96c58f17974b",
+    "id": "a7253b91-37a3-4b6d-8e4f-157bbf785a04",
     "organization_name": "Финансовый университет при Правительстве Российской Федерации",
     "source": "aggregator",
     "review": true,
